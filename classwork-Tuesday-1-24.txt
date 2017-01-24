@@ -1,0 +1,55 @@
+Classwork. Hope it works.
+./eeb-177/class-assignments/classwork-Tues-1-17.txt
+./eeb-177/class-assignments/classwork-Tuesday-1-24.txt
+./eeb-177/class-assignments/classwork-Thurs-1-19.txt
+./eeb-177/class-assignments/classwork-Thursday-1-19.txt
+  541  grep -i Macaws cep-taxa.txt
+  542  grep -i ara cep-taxa.txt 
+  543  grep Ara cep-taxa.txt
+  544  grep -i -w ara cep-taxa.txt 
+  545  grep -B 3 Cebus cep-taxa.txt 
+  546  grep -n -i -w iguanas cep-taxa.txt
+  547  grep -n -i -w iguana cep-taxa.txt
+  548  grep -v -i -w ara cep-taxa.txt 
+  549  grep -v -i -w ara cep-taxa.txt | wc -l
+  550  grep -v -c -i -w ara cep-taxa.txt
+  551  grep -v -n -i -w ara cep-taxa.txt
+  552  cd ../data/
+  553  ls
+  554  -iname "*about*"
+  555  find -iname "*about*"
+  556  find *. 
+  557  man find
+  558  cd ~/Desktop
+  559  find -iname "*classwork*"
+  560  find -iname "*classwork*" >> ~/Desktop/eeb-177/class-assignments/classwork-Tuesday-1-24.txt 
+  561  cd eeb-177/class-assignments/
+  562  gedit classwork-Tuesday-1-24.txt 
+  563  git add classwork-Tuesday-1-24.txt 
+  564  git commit -m "first commit"
+  565  git commit
+  566  ls
+  567  git add classwork-Tuesday-1-24.txt 
+  568  git commit-m "first commit"
+  569  git commit -m "first commit"
+  570  cd Desktop/eeb-177/class-assignments
+  571  ls
+  572  gedit classwork-Tuesday-1-24.txt 
+  573  git add classwork-Thurs-1-19.txt 
+  574  git commit -m "first commit"
+  575  git log
+  576  ls
+  577  git add classwork-Tuesday-1-24.txt 
+  578  git commit -m "first commit"
+  579  git add classwork-Tuesday-1-24.txt 
+  580  git commit -m "first commit"
+  581  history -n 50
+  582  history
+  583  history 25 >> cd ~/Desktop/eeb-177/class-assignments/classwork-Tuesday-1-24.txt 
+  584  history - 25 >> cd ~/Desktop/eeb-177/class-assignments/classwork-Tuesday-1-24.txt 
+  585  history 25 >> cd ~/Desktop/eeb-177/class-assignments/classwork-Tuesday-1-24.txt 
+  586  history 15 >> cd ~/Desktop/eeb-177/class-assignments/classwork-Tuesday-1-24.txt 
+  587  history 15
+  588  history 10
+  589  history 50 
+  590  history 50 >> ~/Desktop/eeb-177/class-assignments/classwork-Tuesday-1-24.txt 
