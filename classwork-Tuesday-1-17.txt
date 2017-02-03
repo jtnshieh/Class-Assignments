@@ -1,0 +1,16 @@
+yasss 
+.
+..
+badly-named-file.txt
+classwork-Tues-1-17.txt
+.config
+.git
+readme.txt
+.
+..
+badly-named-file.txt
+classwork-Tues-1-17.txt
+.config
+.git
+readme.txt
+temp.txt
